@@ -1,7 +1,19 @@
 input[type=text]{
-height: 100px;
+height: 50px;
 width: 1000px;
 }
 <! make so text drops down instead of going straight>
-<!make submission button>
+
+
+
+input[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}
+
+
 
