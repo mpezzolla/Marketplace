@@ -40,15 +40,23 @@
 }
 
 
-
-.bottomright {
+/*.bottomright05 {
   position: absolute;
   bottom: 440px;
   Right: 16px;
   font-size: 40px;
   font-family: aeriel;
-}
+}*/
 
+
+.bottomright {
+  position: absolute;
+  bottom: 410px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+  pointer-events: none;
+}
 
 
 
@@ -76,8 +84,6 @@
   font-size: 40px;
   font-family: aeriel;
 }
-
-
 
 
 
