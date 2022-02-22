@@ -1,0 +1,9 @@
+feedback:
+
+
+for padding:
+
+<p style=”padding: 10px; color: red; background-color: white; border: black 2px solid”>Text</p>
+
+
+Look at code in repository for putting words in boxes

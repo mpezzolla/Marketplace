@@ -1,0 +1,90 @@
+<style>
+.container {
+  position: relative;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 440px;
+  left: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+
+.bottomleft1 {
+  position: absolute;
+  bottom: 380px;
+  left: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+.bottomleft2 {
+  position: absolute;
+  bottom: 320px;
+  left: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+.bottomleft3 {
+  position: absolute;
+  bottom: 260px;
+  left: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+/*.bottomright05 {
+  position: absolute;
+  bottom: 440px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}*/
+
+
+.bottomright {
+  position: absolute;
+  bottom: 410px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+  pointer-events: none;
+}
+
+
+
+.bottomright1 {
+  position: absolute;
+  bottom: 380px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+.bottomright2 {
+  position: absolute;
+  bottom: 320px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+.bottomright3 {
+  position: absolute;
+  bottom: 260px;
+  Right: 16px;
+  font-size: 40px;
+  font-family: aeriel;
+}
+
+
+
+</style>
